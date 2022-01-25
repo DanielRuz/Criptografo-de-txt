@@ -6,17 +6,17 @@ Programa en python que es capaz de encriptar y desencriptar el contenido de un a
 
 El programa solo usa una dependencia que no es estandar en python. Por tanto, se puede instalar con la instrucción:
 
-´pip3 install -r requiriments.txt´
+`pip3 install -r requiriments.txt`
 
 ## Manual de uso
 
 Para correr el programa es suficiente con la instrucción:
 
-´python3 Main.py´
+`python3 Main.py`
 
 O bien, insertando el nombre del txt a encriptar o desencriptar desde la línea de comando:
 
-´ṕython3 Main.py quijote.txt´
+`ṕython3 Main.py quijote.txt`
 
 Si el nombre del archivo txt no es recibido desde la línea de comando, se solicita en la ejecucción del programa. Posteriormente, se deberá seleccionar la opción de encriptar o desencriptar según sea el caso.
 
